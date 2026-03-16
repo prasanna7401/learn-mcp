@@ -6,6 +6,8 @@ A hands-on project built while completing the [Introduction to MCP](https://anth
 
 Model Context Protocol (MCP) is a standard for connecting AI models to external tools and data. An MCP server exposes **primitives** that a client (and the AI) can interact with.
 
+![MCP Flow](../assets/mcp_flow.png)
+
 ## The Three MCP Primitives
 
 ### `@mcp.tool` — Things Claude can *do*

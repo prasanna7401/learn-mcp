@@ -7,3 +7,4 @@
 5. **Connecting the callback**: The callback on the client needs to be passed into the ClientSession call.
 6. **Getting result**: After the client has generated and returned some text, it will be sent to the server. You can do anything with this text: Use it as part of a workflow in your tool, Decide to make another sampling call, Return the generated text, etc.
 
+![Sampling Callback](../../../assets/sampling_callback.jpg)

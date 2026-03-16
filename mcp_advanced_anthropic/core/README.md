@@ -16,6 +16,8 @@ The server sends a prompt to the client, which uses its existing LLM configurati
 - API cost and configuration burden stays with the client
 - Recommended for publicly accessible MCP servers
 
+![Sampling Flow](../../assets/sampling.jpg)
+
 **Client setup:** `sampling_callback`
 
 ---

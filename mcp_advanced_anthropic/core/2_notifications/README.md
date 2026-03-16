@@ -8,3 +8,5 @@
 > [!NOTE]
 > - Logs can be sent anytime the server wants to send (even after a particular tool call session is over) and can also be associated with the entire session.
 > - But progress is associated with a particular tool invocation status, not the entire session.
+
+![Logging and Progress Callback](../../../assets/logging_and_progress_callback.jpg)
